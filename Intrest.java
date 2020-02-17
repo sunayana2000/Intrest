@@ -1,5 +1,3 @@
-
-package newyeargift;
 import java.util.*;
 public class Intrest {
     public static void main(String[] args) {
